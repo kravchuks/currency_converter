@@ -1,0 +1,23 @@
+.input__box {
+    background-color: #1e290a;
+    width: 400px;
+    margin: 0 auto 20px;
+    display: grid;
+    grid-template-columns: 300px 100px;
+    border-radius: 15px;
+}
+
+input, select {
+    background: none;
+    border: 0;
+    color: #99a4af;
+}
+
+input {
+    padding-left: 10px;
+}
+
+select {
+    padding: 15px;
+    cursor: pointer;
+}

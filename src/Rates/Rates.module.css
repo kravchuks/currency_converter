@@ -1,0 +1,43 @@
+.rates {
+    color: #99a4af;
+}
+
+h3 {
+    color: #99a4af;
+    font-size: 36px;
+}
+
+.select__box {
+    background-color: #1e290a;
+    width: 200px;
+    margin: 0 auto 40px;
+    border-radius: 15px;
+    display: grid;
+    grid-template-columns:200px;
+}
+
+.select {
+    font-size: 18px;
+    margin: 15px;
+    padding: 15px;
+    cursor: pointer;
+    background: none;
+    border: 0;
+    color: #99a4af
+}
+
+.rates__table {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1e290a;
+    border-radius: 15px;
+    width: 500px;
+    margin: 10px auto;
+    font-size: 24px;
+}
+
+.ccy {
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,26 @@
+header {
+    max-width: 1000px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    background-color: #1e290a;
+    border-radius: 20px;
+    position: relative;
+    top: -20px
+}
+
+a {
+    padding-top: 40px;
+    text-decoration: none;
+    color: #99a4af;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.partition {
+    margin-top: 40px;
+    height: 40px;
+    width: 2px;
+    background-color: #99a4af;
+}
